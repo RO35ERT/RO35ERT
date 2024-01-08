@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chile02.Chile02" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RO35ERT.RO35ERT" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Blessings+Mwandira!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phiri+Robert!;" />
 </h1>
 
 <h3 align="center">A passionate software engineering student</h3>
@@ -33,9 +33,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,javascript,python,php,r" />
+    <img src="https://skillicons.dev/icons?i=go,java,javascript,python,php,bootstrap" />
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=mysql,linux,unity,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,linux,nextjs,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=react,spring,ts,vscode" /><br>
 </div>
 
 <br/>
