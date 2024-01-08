@@ -33,10 +33,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,java,javascript,python,php,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=go,java,javascript,python,php" />
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,linux,nextjs,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=react,spring,ts,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=react,spring,ts" /><br>
 </div>
 
 <br/>
