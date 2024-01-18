@@ -38,5 +38,11 @@
      <img src="https://skillicons.dev/icons?i=react,spring,bootstrap,laravel,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=jquery,tailwind,vscode,github,git,linux,postman" /><br>
 </div>
+<div>
+    # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chitundu15&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chitundu15&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitundu15&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
 <br/>
