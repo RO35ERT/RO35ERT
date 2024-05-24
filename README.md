@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **Portifolio site**
  
- 🌱 I’m currently learning **Flutter**
+ 🌱 I’m currently learning **DevOps**
 
  </div>
  
