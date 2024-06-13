@@ -32,11 +32,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,go,javascript,python,php" />
-    <img src="https://skillicons.dev/icons?i=ts,elixir,mysql,mongodb"/>
-    <img src="https://skillicons.dev/icons?i=postgres,dart,html,css,django"/>
-    <img src="https://skillicons.dev/icons?i=react,flutter" /><br>
-     <img src="https://skillicons.dev/icons?i=express,spring,bootstrap,laravel,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=jquery,tailwind,vscode,github,git,linux,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=java,go,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=php,ts,elixir,dart"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,mariadb"/>
+    <img src="https://skillicons.dev/icons?i=html,css"/>
+    <img src="https://skillicons.dev/icons?i=react,flutter,django,express" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,bootstrap,laravel,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,vscode,github,git,linux,postman" /><br>
 </div>
 <br/>
