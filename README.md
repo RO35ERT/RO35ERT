@@ -34,7 +34,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,go,javascript,python" />
     <img src="https://skillicons.dev/icons?i=php,ts,elixir,dart"/>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,mariadb"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
     <img src="https://skillicons.dev/icons?i=html,css"/>
     <img src="https://skillicons.dev/icons?i=react,flutter,django,express" /><br>
     <img src="https://skillicons.dev/icons?i=spring,bootstrap,laravel,nextjs" /><br>
