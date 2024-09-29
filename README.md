@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,go,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,python" />
     <img src="https://skillicons.dev/icons?i=php,ts,elixir,dart"/>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
     <img src="https://skillicons.dev/icons?i=html,css"/>
