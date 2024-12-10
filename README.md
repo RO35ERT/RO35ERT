@@ -28,6 +28,10 @@
 </div>
 
  <hr/>
+    <div align="center">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RO35ERT&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub         Streak" /></a>
+    </div>
+ <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
