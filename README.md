@@ -8,10 +8,7 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Portifolio site**
- 
- 🌱 I’m currently learning **DevOps**
+
 
  </div>
  
